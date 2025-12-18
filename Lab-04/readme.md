@@ -1,6 +1,5 @@
 # Title: **Fundamentals of digital images and Basic image operation using Python**
 
-
 ##  **Objectives**
 
 1. **Load and display** digital image
