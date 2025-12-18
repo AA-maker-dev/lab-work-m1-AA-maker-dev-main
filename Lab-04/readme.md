@@ -275,5 +275,4 @@ This laboratory successfully demonstrated the fundamental operations for digital
 
 The laboratory objectives were successfully achieved. Students demonstrated competency in loading, analyzing, converting, transforming, and extracting regions from digital images using Python and OpenCV libraries.
 
-
 ---
